@@ -55,11 +55,11 @@ def draw_image(items, color):
 
 def main():
     # Say hi!
-    draw_image(HI, GREEN)
+    draw_image(HI, CYAN)
     # Be nice!
-    draw_image(SMILE, ORANGE)
+    draw_image(SMILE, CYAN)
     # Show love!
-    draw_image(HEART, RED)
+    draw_image(HEART, BLACK)
     clear_board()
 
 
