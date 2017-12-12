@@ -55,7 +55,7 @@ def draw_image(items, color):
 
 def main():
     # Say hi!
-    draw_image(HI, GREEN)
+    draw_image(HI, YELLOW)
     # Be nice!
     draw_image(SMILE, ORANGE)
     # Show love!
